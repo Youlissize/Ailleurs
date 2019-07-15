@@ -1,0 +1,1182 @@
+﻿Log file open, 10/21/18 14:55:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Ailleurs
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290125
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.149s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 680
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.020s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.21-12.55.37:491][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-12.55.37:491][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.21-12.55.37:528][  0]LogHAL: Display: Platform has ~ 16 GB [17121099776 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.21-12.55.37:528][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.21-12.55.37:528][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.21-12.55.37:539][  0]LogInit: Computer: DESKTOP-VM0RQ20
+[2018.10.21-12.55.37:539][  0]LogInit: User: Ulysse
+[2018.10.21-12.55.37:539][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.21-12.55.37:539][  0]LogInit: High frequency timer resolution =3.320309 MHz
+[2018.10.21-12.55.37:539][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.21-12.55.37:539][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.21-12.55.37:539][  0]LogMemory: Process Physical Memory: 100.75 MB used, 100.75 MB peak
+[2018.10.21-12.55.37:539][  0]LogMemory: Process Virtual Memory: 92.02 MB used, 92.02 MB peak
+[2018.10.21-12.55.37:539][  0]LogMemory: Physical Memory: 4764.90 MB used,  11563.05 MB free, 16327.95 MB total
+[2018.10.21-12.55.37:539][  0]LogMemory: Virtual Memory: 4628.27 MB used,  11563.05 MB free, 134217728.00 MB total
+[2018.10.21-12.55.37:711][  0]LogInit: Using OS detected language (fr-FR).
+[2018.10.21-12.55.37:711][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.10.21-12.55.37:711][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.10.21-12.55.37:729][  0]LogStreaming: Display: Took  0.019s to InitEngineTextLocalization.
+[2018.10.21-12.55.37:729][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.21-12.55.37:787][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.21-12.55.37:787][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.21-12.55.39:436][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-12.55.39:436][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.21-12.55.39:478][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 680' (Feature Level 11_0)
+[2018.10.21-12.55.39:478][  0]LogD3D11RHI:       2017/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.21-12.55.39:479][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.21-12.55.39:479][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.21-12.55.39:479][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.21-12.55.39:483][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.21-12.55.39:483][  0]LogD3D11RHI:     GPU DeviceId: 0x1180 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.21-12.55.39:483][  0]LogWindows: EnumDisplayDevices:
+[2018.10.21-12.55.39:483][  0]LogWindows:    0. 'NVIDIA GeForce GTX 680' (P:1 D:1)
+[2018.10.21-12.55.39:483][  0]LogWindows:    1. 'NVIDIA GeForce GTX 680' (P:0 D:1)
+[2018.10.21-12.55.39:484][  0]LogWindows:    2. 'NVIDIA GeForce GTX 680' (P:0 D:0)
+[2018.10.21-12.55.39:484][  0]LogWindows:    3. 'NVIDIA GeForce GTX 680' (P:0 D:0)
+[2018.10.21-12.55.39:484][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.21-12.55.39:484][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 680
+[2018.10.21-12.55.39:484][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.10.21-12.55.39:484][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.10.21-12.55.39:484][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.10.21-12.55.39:507][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.21-12.55.39:523][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.21-12.55.39:525][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (D:/Documents/Unreal Projects/Ailleurs/Intermediate/Shaders/WorkingDirectory/3400/).
+[2018.10.21-12.55.39:525][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ulysse/AppData/Local/Temp/UnrealShaderWorkingDir/2F08B1A14B50C90AFD6D2C9CF0FD5DEB/'.
+[2018.10.21-12.55.39:938][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.21-12.55.39:956][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.21-12.55.39:974][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.21-12.55.39:992][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.21-12.55.40:014][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.21-12.55.40:032][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.21-12.55.40:051][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.21-12.55.40:069][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.21-12.55.40:082][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:159][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:160][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.21-12.55.40:168][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.21-12.55.40:251][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-12.55.40:251][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.21-12.55.40:276][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-12.55.40:276][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.21-12.55.40:294][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.21-12.55.40:311][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.21-12.55.40:329][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.21-12.55.40:353][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.21-12.55.40:367][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.21-12.55.40:367][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.21-12.55.40:603][  0]LogXGEController: Cleaning working directory: C:/Users/Ulysse/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.21-12.55.40:603][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.21-12.55.40:603][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.21-12.55.40:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.21-12.55.42:005][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.21-12.55.42:332][  0]LogDerivedDataCache: Loaded boot cache 0.33s 71MB C:/Users/Ulysse/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-12.55.42:333][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ulysse/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.21-12.55.42:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/Unreal Projects/Ailleurs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.21-12.55.42:333][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.21-12.55.42:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/Unreal Projects/Ailleurs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.21-12.55.42:333][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.21-12.55.42:369][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.21-12.55.42:382][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ulysse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.21-12.55.42:382][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.21-12.55.42:382][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.21-12.55.42:396][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.21-12.55.42:397][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.21-12.55.42:407][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.21-12.55.42:594][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.10.21-12.55.42:830][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.21-12.55.43:090][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.21-12.55.43:122][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.21-12.55.43:122][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.21-12.55.43:123][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.21-12.55.43:123][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.21-12.55.43:155][  0]LogNetVersion: Ailleurs 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2809596402)
+[2018.10.21-12.55.44:317][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.347092 seconds
+[2018.10.21-12.55.44:323][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.21-12.55.44:323][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.21-12.55.44:323][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.21-12.55.46:831][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.21-12.55.46:855][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.21-12.55.47:236][  0]SourceControl: Source control is disabled
+[2018.10.21-12.55.47:237][  0]SourceControl: Source control is disabled
+[2018.10.21-12.55.47:255][  0]SourceControl: Source control is disabled
+[2018.10.21-12.55.47:267][  0]SourceControl: Source control is disabled
+[2018.10.21-12.55.47:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.21-12.55.47:912][  0]LogOcInput: OculusInput pre-init called
+[2018.10.21-12.55.48:032][  0]LogEngine: Initializing Engine...
+[2018.10.21-12.55.48:033][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.21-12.55.48:034][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-12.55.48:034][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-12.55.48:034][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-12.55.48:034][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-12.55.48:340][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.21-12.55.48:361][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.21-12.55.48:372][  0]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-12.55.48:385][  0]LogInit: FAudioDevice initialized.
+[2018.10.21-12.55.48:385][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.21-12.55.48:452][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Ulysse/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.21-12.55.48:455][  0]LogInit: Texture streaming: Enabled
+[2018.10.21-12.55.48:499][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.21-12.55.48:574][  0]LogInit: Transaction tracking system initialized
+[2018.10.21-12.55.48:729][  0]BlueprintLog: New page: Editor Load
+[2018.10.21-12.55.49:020][  0]LocalizationService: Localization service is disabled
+[2018.10.21-12.55.49:636][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.21-12.55.49:636][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.21-12.55.49:636][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.21-12.55.49:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.21-12.55.49:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.21-12.55.49:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.21-12.55.49:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.21-12.55.50:097][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/Ailleurs/Content/' took 0.02s
+[2018.10.21-12.55.50:097][  0]SourceControl: Source control is disabled
+[2018.10.21-12.55.50:097][  0]Cmd: MAP LOAD FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Maps/Création_Mesh.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.21-12.55.50:097][  0]LightingResults: New page: Lighting Build
+[2018.10.21-12.55.50:099][  0]MapCheck: New page: Map Check
+[2018.10.21-12.55.50:099][  0]LightingResults: New page: Lighting Build
+[2018.10.21-12.55.51:240][  0]LogAIModule: Creating AISystem for world Création_Mesh
+[2018.10.21-12.55.51:283][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.21-12.55.51:308][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.21-12.55.51:353][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44,844ms to complete.
+[2018.10.21-12.55.51:353][  0]LogFileHelpers: Loading map 'Création_Mesh' took 1.256
+[2018.10.21-12.55.51:460][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-12.55.51:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-12.55.51:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-12.55.51:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-12.55.51:628][  0]LogCollectionManager: Loaded 0 collections in 0.001042 seconds
+[2018.10.21-12.55.51:667][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/Ailleurs/Saved/Collections/' took 0.01s
+[2018.10.21-12.55.51:667][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/Ailleurs/Content/Developers/Ulysse/Collections/' took 0.01s
+[2018.10.21-12.55.51:667][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Projects/Ailleurs/Content/Collections/' took 0.01s
+[2018.10.21-12.55.51:667][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.21-12.55.51:675][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2573 classes and 605 folders.
+[2018.10.21-12.55.51:680][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.21-12.55.52:038][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.21-12.55.52:044][  0]LogSlate: Took 0.003727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.21-12.55.52:051][  0]LogSlate: Took 0.005164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.21-12.55.52:059][  0]LogSlate: Took 0.004115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.21-12.55.52:155][  0]LogRenderer: Reallocating scene render targets to support 1228x924 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-12.55.52:288][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.21-12.55.52:288][  0]LogLoad: (Engine Initialization) Total time: 18.80 seconds
+[2018.10.21-12.55.52:288][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.21-12.55.52:323][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.21-12.55.52:407][  0]LogSlate: Took 0.004405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-12.55.52:518][  1]LogAssetRegistry: Asset discovery search completed in 9.9466 seconds
+[2018.10.21-12.55.52:520][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.21-12.55.52:520][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2018.10.21-12.58.06:550][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.58.18:445][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.58.30:848][921]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.58.46:549][620]Cmd: DELETE
+[2018.10.21-12.58.46:549][620]Cmd: ACTOR DELETE
+[2018.10.21-12.58.46:584][620]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-12.58.46:603][620]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-12.58.54:621][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.58.54:833][588]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.59.18:904][390]Cmd: DELETE
+[2018.10.21-12.59.18:904][390]Cmd: ACTOR DELETE
+[2018.10.21-12.59.18:938][390]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-12.59.18:957][390]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-12.59.21:624][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.59.27:793][428]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.59.35:543][292]LogSlate: Took 0.004605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.21-12.59.36:019][341]Cmd: DELETE
+[2018.10.21-12.59.36:019][341]Cmd: ACTOR DELETE
+[2018.10.21-12.59.36:054][341]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-12.59.36:072][341]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-12.59.36:753][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.59.41:913][ 33]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.59.50:457][921]Cmd: DELETE
+[2018.10.21-12.59.50:457][921]Cmd: ACTOR DELETE
+[2018.10.21-12.59.50:490][921]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-12.59.50:509][921]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-12.59.51:543][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.59.52:399][129]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.59.58:243][775]Cmd: DELETE
+[2018.10.21-12.59.58:243][775]Cmd: ACTOR DELETE
+[2018.10.21-12.59.58:277][775]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-12.59.58:295][775]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-12.59.58:793][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-12.59.59:846][843]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-12.59.59:846][843]LogTexture: Display: Building textures: T_smokeSingle_01 (AutoDXT, 1024X1024)
+[2018.10.21-13.00.07:798][710]Cmd: DELETE
+[2018.10.21-13.00.07:798][710]Cmd: ACTOR DELETE
+[2018.10.21-13.00.07:832][710]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.00.07:851][710]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.00.08:177][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.00.08:409][756]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.10.21-13.00.08:409][756]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.10.21-13.00.08:481][756]LogPackageName: SearchForPackageOnDisk took   0.072s, but failed to resolve FX_Meshes.
+[2018.10.21-13.00.08:481][756]LogPackageName: Warning: String asset reference "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2018.10.21-13.00.08:482][756]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.10.21-13.00.08:482][756]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.10.21-13.00.08:548][756]LogPackageName: SearchForPackageOnDisk took   0.066s, but failed to resolve Env_ALL_Artifacts.
+[2018.10.21-13.00.08:548][756]LogPackageName: Warning: String asset reference "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2018.10.21-13.00.13:029][756]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.00.13:029][756]LogTexture: Display: Building textures: T_Env_Health_Terminus_D (AutoDXT, 2048X2048)
+[2018.10.21-13.00.13:030][756]LogMaterial: Display: Missing cached shader map for material M_Env_Health_Terminus, compiling. 
+[2018.10.21-13.00.13:107][756]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.21-13.00.13:107][756]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.21-13.00.13:107][756]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.21-13.00.13:107][756]LogStaticMesh: Building static mesh SM_HealthShrine_01...
+[2018.10.21-13.00.13:112][756]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.21-13.00.13:174][756]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_HealthShrine_01.SM_HealthShrine_01
+[2018.10.21-13.00.18:285][299]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.21-13.00.18:580][329]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.21-13.00.32:871][925]Cmd: DELETE
+[2018.10.21-13.00.32:871][925]Cmd: ACTOR DELETE
+[2018.10.21-13.00.32:906][925]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.00.32:925][925]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.00.35:894][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.00.36:093][280]LogTexture: Display: Building textures: T_Black_32 (AutoDXT, 32X32)
+[2018.10.21-13.00.36:093][280]LogMaterial: Display: Missing cached shader map for material M_Trans_Sprite_Master_DepthFade, compiling. 
+[2018.10.21-13.00.36:458][280]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.00.36:459][280]LogTexture: Display: Building textures: T_bloodTest_4X6 (AutoDXT, 1024X1024)
+[2018.10.21-13.00.36:459][280]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.21-13.00.36:459][280]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.21-13.00.36:459][280]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.21-13.00.37:798][301]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2018.10.21-13.00.37:865][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.00.55:125][264]Cmd: ACTOR HIDE SELECTED
+[2018.10.21-13.00.56:761][458]Cmd: TRANSACTION UNDO
+[2018.10.21-13.00.56:761][458]LogEditorTransaction: Undo Hide Selected
+[2018.10.21-13.00.58:053][566]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Lava_Splashes)
+[2018.10.21-13.01.04:777][132]Cmd: DELETE
+[2018.10.21-13.01.04:777][132]Cmd: ACTOR DELETE
+[2018.10.21-13.01.04:812][132]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.01.04:830][132]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.01.08:087][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.01.08:877][554]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.01.30:105][885]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_LavaDrips)
+[2018.10.21-13.01.31:251][  0]Cmd: DELETE
+[2018.10.21-13.01.31:251][  0]Cmd: ACTOR DELETE
+[2018.10.21-13.01.31:286][  0]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.01.31:304][  0]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.01.35:468][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.01.35:570][463]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.01.37:482][671]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.01.37:482][671]LogTexture: Display: Building textures: T_LightCone (AutoDXT, 256X256)
+[2018.10.21-13.02.15:497][688]Cmd: DELETE
+[2018.10.21-13.02.15:497][688]Cmd: ACTOR DELETE
+[2018.10.21-13.02.15:531][688]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.02.15:551][688]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.02.16:677][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.02.18:062][968]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.02.30:395][318]Cmd: DELETE
+[2018.10.21-13.02.30:395][318]Cmd: ACTOR DELETE
+[2018.10.21-13.02.30:429][318]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.02.30:448][318]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.02.31:717][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.02.31:817][464]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.02.45:012][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.02.47:380][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.02.47:390][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_LightCorona" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_LightCorona.uasset" SILENT=true
+[2018.10.21-13.02.47:405][218]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_LightCoronaDCA31917423DABEBCB5063832F395BDE.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_LightCorona.uasset'
+[2018.10.21-13.02.47:417][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.02.47:460][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.02.49:249][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.02.52:340][757]Cmd: DELETE
+[2018.10.21-13.02.52:340][757]Cmd: ACTOR DELETE
+[2018.10.21-13.02.52:373][757]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.02.52:392][757]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.02.53:536][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.02.53:693][901]LogTexture: Display: Building textures: T_BlastHalf (AutoDXT, 256X256)
+[2018.10.21-13.02.53:693][901]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.03.03:130][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.05:814][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.05:825][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Map_Glow_01" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_01.uasset" SILENT=true
+[2018.10.21-13.03.05:844][285]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_0138D8E711453E597DA42AD7B9718FBB1E.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_01.uasset'
+[2018.10.21-13.03.05:852][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.05:894][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.07:785][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.07:872][490]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.03.27:156][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.30:278][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.30:289][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Map_Glow_02" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_02.uasset" SILENT=true
+[2018.10.21-13.03.30:302][106]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_029C0A39AA4019201467145AB60A5F6F3B.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_02.uasset'
+[2018.10.21-13.03.30:310][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.30:352][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.03.31:944][263]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_02)
+[2018.10.21-13.03.33:226][404]Cmd: DELETE
+[2018.10.21-13.03.33:226][404]Cmd: ACTOR DELETE
+[2018.10.21-13.03.33:261][404]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.03.33:280][404]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.10.21-13.03.33:746][458]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_01)
+[2018.10.21-13.03.34:106][495]Cmd: DELETE
+[2018.10.21-13.03.34:106][495]Cmd: ACTOR DELETE
+[2018.10.21-13.03.34:140][495]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.03.34:159][495]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.03.38:606][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.39:699][152]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.03.46:005][873]Cmd: DELETE
+[2018.10.21-13.03.46:005][873]Cmd: ACTOR DELETE
+[2018.10.21-13.03.46:039][873]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.03.46:059][873]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.10.21-13.03.46:808][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.49:054][227]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.03.56:773][ 96]Cmd: DELETE
+[2018.10.21-13.03.56:773][ 96]Cmd: ACTOR DELETE
+[2018.10.21-13.03.56:807][ 96]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.03.56:826][ 96]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.03.58:946][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.03.59:125][357]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.04.05:221][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.04.08:724][325]Cmd: DELETE
+[2018.10.21-13.04.08:724][325]Cmd: ACTOR DELETE
+[2018.10.21-13.04.08:758][325]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.04.08:777][325]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.04.09:780][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.04.09:913][444]LogTexture: Display: Building textures: T_starFlare_02 (AutoDXT, 256X256)
+[2018.10.21-13.04.09:913][444]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.04.12:537][737]Cmd: DELETE
+[2018.10.21-13.04.12:538][737]Cmd: ACTOR DELETE
+[2018.10.21-13.04.12:571][737]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.04.12:590][737]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.04.14:200][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.04.14:457][936]LogTexture: Display: Building textures: T_Sparkle_Flakes (AutoDXT, 256X256)
+[2018.10.21-13.04.14:457][936]LogTexture: Display: Building textures: T_FrozenGround (AutoDXT, 512X512)
+[2018.10.21-13.04.14:457][936]LogTexture: Display: Building textures: T_FrozenGround_N (BC5, 512X512)
+[2018.10.21-13.04.14:706][936]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.04.14:706][936]LogMaterial: Display: Missing cached shader map for material M_IceBlastBase, compiling. 
+[2018.10.21-13.04.14:776][936]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.10.21-13.04.14:776][936]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.10.21-13.04.14:776][936]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.10.21-13.04.14:776][936]LogStaticMesh: Building static mesh SM_SnowHeavy...
+[2018.10.21-13.04.14:793][936]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeEffects/Effects/FX_Meshes/Env/SM_SnowHeavy.SM_SnowHeavy
+[2018.10.21-13.04.24:965][920]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.10.21-13.04.28:988][318]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.10.21-13.04.29:480][369]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.10.21-13.04.35:168][966]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.21-13.04.37:358][195]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.21-13.04.39:851][446]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.21-13.04.44:113][872]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.21-13.04.44:871][920]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.21-13.04.46:366][ 75]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.21-13.04.59:688][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.05.03:285][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.05.03:291][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_meshSnowCamera" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_meshSnowCamera.uasset" SILENT=true
+[2018.10.21-13.05.03:309][895]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_meshSnowCameraF440119341B1BA7265A7699A04ECE6C1.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_meshSnowCamera.uasset'
+[2018.10.21-13.05.03:453][895]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_meshSnowCamera7F9BAA294706A37540144BA2A72A1606.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/InfinityBladeEffects/Effects/FX_Ambient/Snow/P_meshSnowCamera.uasset'
+[2018.10.21-13.05.04:771][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.05.04:873][ 35]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.05.09:998][474]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_meshSnowCamera)
+[2018.10.21-13.05.10:727][543]Cmd: DELETE
+[2018.10.21-13.05.10:727][543]Cmd: ACTOR DELETE
+[2018.10.21-13.05.10:761][543]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.05.10:780][543]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.05.11:707][636]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_meshSnowHeavy)
+[2018.10.21-13.05.39:214][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.05.42:041][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.05.42:047][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_meshSnowHeavy" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_meshSnowHeavy.uasset" SILENT=true
+[2018.10.21-13.05.42:071][ 83]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_meshSnowHeavy6DB3158B4BF1A6C2A8F4F9AE9DFC9B91.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_meshSnowHeavy.uasset'
+[2018.10.21-13.05.42:079][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.05.42:121][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.05.44:795][368]Cmd: DELETE
+[2018.10.21-13.05.44:795][368]Cmd: ACTOR DELETE
+[2018.10.21-13.05.44:829][368]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.05.44:847][368]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.05.47:106][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.05.47:221][638]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.06.01:417][276]Cmd: DELETE
+[2018.10.21-13.06.01:417][276]Cmd: ACTOR DELETE
+[2018.10.21-13.06.01:451][276]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.06.01:470][276]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.06.04:604][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.04:741][660]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.06.17:430][108]Cmd: DELETE
+[2018.10.21-13.06.17:430][108]Cmd: ACTOR DELETE
+[2018.10.21-13.06.17:464][108]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.06.17:483][108]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.06.20:070][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.26:327][139]Cmd: DELETE
+[2018.10.21-13.06.26:327][139]Cmd: ACTOR DELETE
+[2018.10.21-13.06.26:361][139]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.06.26:380][139]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.06.31:461][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.34:359][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.36:532][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.06.36:538][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Mist_mobile" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Mist_mobile.uasset" SILENT=true
+[2018.10.21-13.06.36:553][305]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Mist_mobile6678924244B90AA5FF9189B36714884B.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Mist_mobile.uasset'
+[2018.10.21-13.06.36:560][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.06.36:603][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.06.37:766][428]Cmd: DELETE
+[2018.10.21-13.06.37:766][428]Cmd: ACTOR DELETE
+[2018.10.21-13.06.37:799][428]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.06.37:818][428]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.06.39:586][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.54:183][215]Cmd: DELETE
+[2018.10.21-13.06.54:183][215]Cmd: ACTOR DELETE
+[2018.10.21-13.06.54:216][215]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.06.54:234][215]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.21-13.06.57:099][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.06.59:174][784]LogStaticMesh: Building static mesh SM_Compass_Indicator...
+[2018.10.21-13.06.59:177][784]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.06.59:188][784]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/UI/SM_Compass_Indicator.SM_Compass_Indicator
+[2018.10.21-13.07.05:859][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.07.20:154][ 58]Cmd: DELETE
+[2018.10.21-13.07.20:154][ 58]Cmd: ACTOR DELETE
+[2018.10.21-13.07.20:188][ 58]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.07.20:206][ 58]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.07.21:894][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.07.22:675][339]LogMaterial: Display: Missing cached shader map for material M_Trans_Sprite_Master, compiling. 
+[2018.10.21-13.07.22:779][339]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.07.22:779][339]LogTexture: Display: Building textures: T_TouchIndicator_01 (AutoDXT, 1024X1024)
+[2018.10.21-13.07.22:779][339]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.21-13.07.22:779][339]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.21-13.07.22:779][339]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.21-13.07.22:779][339]LogStaticMesh: Building static mesh SM_FlatRing_01...
+[2018.10.21-13.07.22:786][339]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/UI/SM_FlatRing_01.SM_FlatRing_01
+[2018.10.21-13.07.25:092][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.07.27:829][866]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.21-13.07.41:917][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.07.44:993][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.07.44:999][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Select_indicator" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Select_indicator.uasset" SILENT=true
+[2018.10.21-13.07.45:011][868]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Select_indicatorDB2D8499435784FE8239A9B74408D286.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Select_indicator.uasset'
+[2018.10.21-13.07.45:019][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.07.45:062][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.07.46:262][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.07.46:374][  3]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.07.47:819][150]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Select_indicator)
+[2018.10.21-13.07.49:846][382]Cmd: DELETE
+[2018.10.21-13.07.49:846][382]Cmd: ACTOR DELETE
+[2018.10.21-13.07.49:880][382]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.07.49:899][382]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.07.51:168][516]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_small_Fire_Trunks)
+[2018.10.21-13.07.56:947][119]Cmd: DELETE
+[2018.10.21-13.07.56:947][119]Cmd: ACTOR DELETE
+[2018.10.21-13.07.56:981][119]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.07.56:999][119]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.07.59:410][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.08.03:334][802]Cmd: DELETE
+[2018.10.21-13.08.03:334][802]Cmd: ACTOR DELETE
+[2018.10.21-13.08.03:368][802]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.08.03:386][802]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.08.04:024][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.08.10:966][618]Cmd: DELETE
+[2018.10.21-13.08.10:966][618]Cmd: ACTOR DELETE
+[2018.10.21-13.08.11:000][618]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.08.11:018][618]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.08.14:605][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.08.23:614][106]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.08.30:602][881]Cmd: DELETE
+[2018.10.21-13.08.30:602][881]Cmd: ACTOR DELETE
+[2018.10.21-13.08.30:636][881]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.08.30:655][881]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.08.30:983][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.08.31:099][928]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.08.46:306][579]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.21-13.08.46:322][579]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.08.46:323][579]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.21-13.08.46:324][579]LogPlayLevel: [PlayLevel] Compiling Création_Mesh before play...
+[2018.10.21-13.08.46:404][579]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2018.10.21-13.08.46:418][579]PIE: New page: PIE session: Création_Mesh (21 oct. 2018 17:08:46)
+[2018.10.21-13.08.46:418][579]LogPlayLevel: Creating play world package: /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh
+[2018.10.21-13.08.46:559][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140954s)
+[2018.10.21-13.08.46:560][579]LogAIModule: Creating AISystem for world Création_Mesh
+[2018.10.21-13.08.46:560][579]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.10.21-13.08.46:560][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ailleurs/Maps/Création_Mesh.Création_Mesh to /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh (0.142029s)
+[2018.10.21-13.08.46:584][579]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.08.46:591][579]LogInit: FAudioDevice initialized.
+[2018.10.21-13.08.46:595][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.08.46:597][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.08.46:649][579]LogLoad: Game class is 'GameMode_classic_C'
+[2018.10.21-13.08.46:656][579]LogWorld: Bringing World /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh up for play (max tick rate 0) at 2018.10.21-15.08.46
+[2018.10.21-13.08.46:657][579]LogWorld: Bringing up level for play took: 0.007121
+[2018.10.21-13.08.46:669][579]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.21-13.08.46:673][579]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.21-13.08.46:675][579]Cmd: DisableAllScreenMessages
+[2018.10.21-13.08.46:675][579]LogEngine: Onscreen warnings/messages are now DISABLED
+[2018.10.21-13.08.46:679][579]PIE: Play in editor start time for /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh 0,68
+[2018.10.21-13.08.46:679][579]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.08.46:719][579]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2018.10.21-13.08.46:753][580]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091911 > MaxSimulationTimeStep (0.050) for 'Character_classic_C_0', movement 'Walking'
+[2018.10.21-13.08.54:906][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.08.54:906][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.08.54:924][331]LogSlate: Window 'Ailleurs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.08.54:956][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.08.54:957][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.08.55:006][332]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.10.21-13.08.58:888][753]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Snow_Blowing_ground)
+[2018.10.21-13.08.59:306][794]Cmd: DELETE
+[2018.10.21-13.08.59:306][794]Cmd: ACTOR DELETE
+[2018.10.21-13.08.59:341][794]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.08.59:359][794]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.09.00:900][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.09.00:978][979]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.09.18:068][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.09.23:943][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.09.23:966][511]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Snow_BlowingGroundLarge_Slow2D9BDA63340960FCBA35F7C890A9D9627.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingGroundLarge_Slow2.uasset'
+[2018.10.21-13.09.23:973][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.09.24:017][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.09.26:693][794]Cmd: DELETE
+[2018.10.21-13.09.26:693][794]Cmd: ACTOR DELETE
+[2018.10.21-13.09.26:727][794]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.09.26:745][794]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.09.27:535][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.09.27:669][896]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.09.51:134][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.09.51:247][300]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.10.04:269][534]Cmd: DELETE
+[2018.10.21-13.10.04:269][534]Cmd: ACTOR DELETE
+[2018.10.21-13.10.04:302][534]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.10.04:321][534]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.10.05:903][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.09:121][ 28]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Snow_BlowingLar_2)
+[2018.10.21-13.10.11:680][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.13:809][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.13:816][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Snow_BlowingLar_2" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingLar_2.uasset" SILENT=true
+[2018.10.21-13.10.13:837][513]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Snow_BlowingLar_2DB2F4786430393018ACB05A506F0181C.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingLar_2.uasset'
+[2018.10.21-13.10.13:845][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.13:888][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.17:482][851]Cmd: DELETE
+[2018.10.21-13.10.17:482][851]Cmd: ACTOR DELETE
+[2018.10.21-13.10.17:516][851]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.10.17:533][851]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.21-13.10.18:704][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.20:841][200]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.10.33:638][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.36:364][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.36:392][776]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Snow_BlowingLarge_particulates9CE22E004FAC0BF07AC061BCA2E9ADD3.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingLarge_particulates.uasset'
+[2018.10.21-13.10.36:401][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.36:444][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.38:966][ 11]Cmd: DELETE
+[2018.10.21-13.10.38:966][ 11]Cmd: ACTOR DELETE
+[2018.10.21-13.10.39:001][ 11]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.10.39:019][ 11]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.10.39:739][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.39:871][ 93]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.10.57:628][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.10.59:846][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.59:853][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Snow_BlowingSmall" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingSmall.uasset" SILENT=true
+[2018.10.21-13.10.59:869][ 91]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Snow_BlowingSmall697B235A44CD0B9D91297C8C97C35AF4.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Snow_BlowingSmall.uasset'
+[2018.10.21-13.10.59:877][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.10.59:921][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.11.02:471][329]Cmd: DELETE
+[2018.10.21-13.11.02:471][329]Cmd: ACTOR DELETE
+[2018.10.21-13.11.02:505][329]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.11.02:523][329]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.11.03:800][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.11.03:922][455]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.11.12:531][217]Cmd: DELETE
+[2018.10.21-13.11.12:531][217]Cmd: ACTOR DELETE
+[2018.10.21-13.11.12:566][217]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.11.12:584][217]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.11.12:998][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.11.13:077][264]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.11.45:364][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.21-13.11.46:629][741]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_SnowFall_01)
+[2018.10.21-13.12.02:790][569]Cmd: DELETE
+[2018.10.21-13.12.02:790][569]Cmd: ACTOR DELETE
+[2018.10.21-13.12.02:825][569]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.02:843][569]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.12.04:986][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.05:094][830]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.12.11:769][488]Cmd: DELETE
+[2018.10.21-13.12.11:769][488]Cmd: ACTOR DELETE
+[2018.10.21-13.12.11:802][488]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.11:821][488]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.12.12:316][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.12:416][554]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.12.34:831][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.37:505][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.12.37:514][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_SparkVolume_Wide" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_SparkVolume_Wide.uasset" SILENT=true
+[2018.10.21-13.12.37:529][159]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_SparkVolume_Wide2FB86C144D4C905741FFB3A823CD1E40.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_SparkVolume_Wide.uasset'
+[2018.10.21-13.12.37:537][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.12.37:581][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.12.39:831][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.42:086][620]Cmd: DELETE
+[2018.10.21-13.12.42:086][620]Cmd: ACTOR DELETE
+[2018.10.21-13.12.42:120][620]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.42:139][620]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.12.43:889][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.43:966][828]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.12.47:108][160]Cmd: DELETE
+[2018.10.21-13.12.47:108][160]Cmd: ACTOR DELETE
+[2018.10.21-13.12.47:142][160]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.47:161][160]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.12.48:054][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.48:212][277]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.12.54:856][ 34]Cmd: DELETE
+[2018.10.21-13.12.54:856][ 34]Cmd: ACTOR DELETE
+[2018.10.21-13.12.54:890][ 34]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.54:908][ 34]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.12.55:656][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.12.55:767][130]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.12.59:317][515]Cmd: DELETE
+[2018.10.21-13.12.59:317][515]Cmd: ACTOR DELETE
+[2018.10.21-13.12.59:351][515]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.12.59:369][515]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.13.00:082][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.00:239][606]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.00:239][606]LogTexture: Display: Building textures: T_TouchNegative (AutoDXT, 256X256)
+[2018.10.21-13.13.02:315][835]Cmd: DELETE
+[2018.10.21-13.13.02:315][835]Cmd: ACTOR DELETE
+[2018.10.21-13.13.02:349][835]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.02:367][835]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.13.03:599][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.03:691][987]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.06:171][267]Cmd: DELETE
+[2018.10.21-13.13.06:171][267]Cmd: ACTOR DELETE
+[2018.10.21-13.13.06:205][267]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.06:223][267]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.13.06:943][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.07:065][361]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.11:319][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.15:368][302]Cmd: DELETE
+[2018.10.21-13.13.15:368][302]Cmd: ACTOR DELETE
+[2018.10.21-13.13.15:403][302]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.15:422][302]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.10.21-13.13.16:512][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.16:615][438]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.19:355][745]Cmd: DELETE
+[2018.10.21-13.13.19:355][745]Cmd: ACTOR DELETE
+[2018.10.21-13.13.19:389][745]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.19:408][745]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.13.20:068][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.20:146][828]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.22:489][ 84]Cmd: DELETE
+[2018.10.21-13.13.22:489][ 84]Cmd: ACTOR DELETE
+[2018.10.21-13.13.22:523][ 84]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.22:542][ 84]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.13.23:091][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.23:183][156]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.34:679][471]Cmd: DELETE
+[2018.10.21-13.13.34:679][471]Cmd: ACTOR DELETE
+[2018.10.21-13.13.34:713][471]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.34:731][471]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.13.35:706][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.35:782][592]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.44:581][524]Cmd: DELETE
+[2018.10.21-13.13.44:581][524]Cmd: ACTOR DELETE
+[2018.10.21-13.13.44:615][524]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.44:633][524]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.13.45:576][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.50:742][215]Cmd: DELETE
+[2018.10.21-13.13.50:742][215]Cmd: ACTOR DELETE
+[2018.10.21-13.13.50:777][215]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.13.50:795][215]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.13.54:127][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.13.59:535][200]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.13.59:535][200]LogTexture: Display: Building textures: T_BlastWave (AutoDXT, 1024X1024)
+[2018.10.21-13.14.00:208][200]LogTexture: Display: Building textures: T_Ice_Fort_Wall_1_N (BC5, 2048X2048)
+[2018.10.21-13.14.00:208][200]LogTexture: Display: Building textures: T_Ice_Fort_Trim_1_D (AutoDXT, 2048X2048)
+[2018.10.21-13.14.00:208][200]LogTexture: Display: Building textures: T_IceChunks (AutoDXT, 128X128)
+[2018.10.21-13.14.00:231][200]LogTexture: Display: Building textures: T_Ice_Fort_Wall_1_D (AutoDXT, 2048X2048)
+[2018.10.21-13.14.00:231][200]LogMaterial: Display: Missing cached shader map for material M_IceChunksBase, compiling. 
+[2018.10.21-13.14.00:246][200]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.21-13.14.00:246][200]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.21-13.14.00:246][200]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.21-13.14.00:246][200]LogStaticMesh: Building static mesh SM_Ice_Fort_Wall_Chunk4DESTROYED...
+[2018.10.21-13.14.00:256][200]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/Walls/SM_Ice_Fort_Wall_Chunk4DESTROYED.SM_Ice_Fort_Wall_Chunk4DESTROYED
+[2018.10.21-13.14.05:611][200]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.21-13.14.05:611][200]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_N (BC5, 1024X1024)
+[2018.10.21-13.14.05:611][200]LogMaterial: Display: Missing cached shader map for material M_Breakables_Fort_Wall_Destroyed, compiling. 
+[2018.10.21-13.14.05:635][200]LogStaticMesh: Building static mesh SM_Ice_Fort_Wall_Chunk2DESTROYED...
+[2018.10.21-13.14.05:640][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.14.05:643][200]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/Walls/SM_Ice_Fort_Wall_Chunk2DESTROYED.SM_Ice_Fort_Wall_Chunk2DESTROYED
+[2018.10.21-13.14.05:646][200]LogStaticMesh: Building static mesh SM_Ice_Fort_Wall_Chunk3DESTROYED...
+[2018.10.21-13.14.05:652][200]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Environments/Breakables/StaticMesh/Walls/SM_Ice_Fort_Wall_Chunk3DESTROYED.SM_Ice_Fort_Wall_Chunk3DESTROYED
+[2018.10.21-13.14.06:207][200]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_D (AutoDXT, 1024X1024)
+[2018.10.21-13.14.06:208][200]LogTexture: Display: Building textures: T_Ice_Fort_Trim_1_N (BC5, 2048X2048)
+[2018.10.21-13.14.06:208][200]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.21-13.14.06:208][200]LogMaterial: Display: Missing cached shader map for material M_Breakables_Fort_Wall_Destroyed_Trim, compiling. 
+[2018.10.21-13.14.06:854][200]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.10.21-13.14.06:854][200]LogMaterial: Display: Missing cached shader map for material M_PLains_FloorStone, compiling. 
+[2018.10.21-13.14.08:209][337]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.10.21-13.14.09:255][450]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.10.21-13.14.11:100][644]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.10.21-13.14.11:889][736]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.10.21-13.14.14:739][  3]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.10.21-13.14.14:826][ 10]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.10.21-13.14.16:246][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.14.16:471][128]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.10.21-13.14.17:316][184]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.10.21-13.14.18:750][286]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.21-13.14.19:085][308]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.21-13.14.20:983][438]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.21-13.14.21:460][470]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.21-13.14.26:114][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.14.29:084][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.14.47:423][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.14.59:816][365]Cmd: DELETE
+[2018.10.21-13.14.59:817][365]Cmd: ACTOR DELETE
+[2018.10.21-13.14.59:851][365]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.14.59:870][365]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2018.10.21-13.15.03:527][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.15.10:951][635]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.15.10:951][635]LogTexture: Display: Building textures: T_GlowNoise_Circular_02 (AutoDXT, 256X256)
+[2018.10.21-13.15.15:932][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.15.19:672][589]Cmd: DELETE
+[2018.10.21-13.15.19:672][589]Cmd: ACTOR DELETE
+[2018.10.21-13.15.19:706][589]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.15.19:724][589]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.15.21:401][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.15.21:839][797]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.15.21:839][797]LogTexture: Display: Building textures: T_Lightning_Bolt_01 (AutoDXT, 1024X1024)
+[2018.10.21-13.15.27:704][479]Cmd: DELETE
+[2018.10.21-13.15.27:704][479]Cmd: ACTOR DELETE
+[2018.10.21-13.15.27:738][479]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.15.27:757][479]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.15.30:806][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.15.38:506][739]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_2Sided_Master, compiling. 
+[2018.10.21-13.15.39:140][739]LogTexture: Display: Building textures: T_Vertical_Glow (AutoDXT, 1024X1024)
+[2018.10.21-13.15.39:140][739]LogTexture: Display: Building textures: T_Vertical_Glow_Tiled (AutoDXT, 1024X1024)
+[2018.10.21-13.15.39:140][739]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.10.21-13.15.39:140][739]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.21-13.15.39:140][739]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.21-13.15.39:140][739]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.10.21-13.15.39:140][739]LogStaticMesh: Building static mesh M_Gate_Ice_Locked_01...
+[2018.10.21-13.15.39:151][739]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeEffects/Effects/FX_Meshes/ICE/M_Gate_Ice_Locked_01.M_Gate_Ice_Locked_01
+[2018.10.21-13.15.43:178][160]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.21-13.15.44:050][260]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.21-13.15.46:105][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.16.03:876][573]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.21-13.16.03:892][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.16.03:892][573]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.21-13.16.03:893][573]LogPlayLevel: [PlayLevel] Compiling Création_Mesh before play...
+[2018.10.21-13.16.03:974][573]LogPlayLevel: PlayLevel: Blueprint regeneration took 81 ms (1 blueprints)
+[2018.10.21-13.16.03:974][573]PIE: New page: PIE session: Création_Mesh (21 oct. 2018 17:16:03)
+[2018.10.21-13.16.03:974][573]LogPlayLevel: Creating play world package: /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh
+[2018.10.21-13.16.04:113][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.138335s)
+[2018.10.21-13.16.04:113][573]LogAIModule: Creating AISystem for world Création_Mesh
+[2018.10.21-13.16.04:113][573]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.10.21-13.16.04:113][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ailleurs/Maps/Création_Mesh.Création_Mesh to /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh (0.139257s)
+[2018.10.21-13.16.04:139][573]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.16.04:146][573]LogInit: FAudioDevice initialized.
+[2018.10.21-13.16.04:150][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.16.04:152][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.16.04:191][573]LogLoad: Game class is 'GameMode_classic_C'
+[2018.10.21-13.16.04:199][573]LogWorld: Bringing World /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh up for play (max tick rate 0) at 2018.10.21-15.16.04
+[2018.10.21-13.16.04:200][573]LogWorld: Bringing up level for play took: 0.007838
+[2018.10.21-13.16.04:211][573]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.21-13.16.04:213][573]Cmd: DisableAllScreenMessages
+[2018.10.21-13.16.04:213][573]LogEngine: Onscreen warnings/messages are now DISABLED
+[2018.10.21-13.16.04:216][573]PIE: Play in editor start time for /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh 0,217
+[2018.10.21-13.16.04:217][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.16.19:751][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.16.19:751][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.16.19:768][959]LogSlate: Window 'Ailleurs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.16.19:800][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.16.19:801][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.16.19:857][961]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.10.21-13.16.23:699][379]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Gate_Ice_Locked_01)
+[2018.10.21-13.16.24:539][472]Cmd: DELETE
+[2018.10.21-13.16.24:539][472]Cmd: ACTOR DELETE
+[2018.10.21-13.16.24:574][472]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.16.24:592][472]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.16.25:618][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.16.49:940][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.16.52:366][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.16.57:161][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere3)
+[2018.10.21-13.16.58:144][962]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_DOT_Lightning_01)
+[2018.10.21-13.17.00:134][172]Cmd: DELETE
+[2018.10.21-13.17.00:134][172]Cmd: ACTOR DELETE
+[2018.10.21-13.17.00:168][172]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.17.00:185][172]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.21-13.17.00:821][246]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_01)
+[2018.10.21-13.17.04:890][703]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.17.07:352][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.17.10:899][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.17.21:894][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.17.32:284][784]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Ailleurs/Particules/P_Map_Glow_Boule.P_Map_Glow_Boule
+[2018.10.21-13.17.32:314][784]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2018.10.21-13.17.49:811][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.17.49:954][461]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.TutorialParticleSystem
+[2018.10.21-13.17.49:961][461]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2018.10.21-13.17.50:372][461]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.21-13.18.02:284][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.19.15:817][930]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/Création_Mesh_Auto1947058B24AC3F3FA73AE6B96558D1870.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Saved/Autosaves/Game/Ailleurs/Maps/Création_Mesh_Auto1.umap'
+[2018.10.21-13.19.15:821][930]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Ailleurs/Maps/Création_Mesh' took 1.426
+[2018.10.21-13.19.15:821][930]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.426
+[2018.10.21-13.19.15:823][930]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ailleurs/Particules/P_Map_Glow_Boule] ([1] browsable assets)...
+[2018.10.21-13.19.15:829][930]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Ailleurs/Particules/P_Map_Glow_Boule.P_Map_Glow_Boule]
+[2018.10.21-13.19.15:829][930]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ailleurs/Particules/P_Map_Glow_Boule]
+[2018.10.21-13.19.15:848][930]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_Boule_Auto1BD0DF11B48530DD1FFDD4FAFB701E8E1.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Saved/Autosaves/Game/Ailleurs/Particules/P_Map_Glow_Boule_Auto1.uasset'
+[2018.10.21-13.19.15:848][930]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.10.21-13.19.34:932][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.19.53:441][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.20.35:589][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.21.08:604][945]LogCascade: Non-seeded module ParticleModuleColorOverLife
+[2018.10.21-13.21.08:610][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.21.12:052][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.21.16:043][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.21.48:886][634]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.21.55:397][219]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.22.08:095][176]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.22.22:641][467]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.23.08:262][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.12:554][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.17:455][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.18:198][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.18:783][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.19:629][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.20:251][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.21:470][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.23:033][839]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.23.26:558][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.27:452][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.29:324][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.23.43:524][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.44:588][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.52:128][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.23.53:382][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.24.00:149][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.24.01:700][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.24.06:835][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.24.21:185][941]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.21-13.24.21:188][941]LogSlate: Window 'Tutorials' being destroyed
+[2018.10.21-13.24.24:948][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.24.25:054][328]LogCascade: Quitting Cascade. FXSystem=0x0000015158F56E80
+[2018.10.21-13.24.28:500][641]LogSlate: Window 'P_Map_Glow_Boule*' being destroyed
+[2018.10.21-13.24.29:963][813]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.24.34:910][373]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.24.39:624][928]LogEditorTransaction: Undo Delete Emitter
+[2018.10.21-13.24.50:920][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.24.56:614][713]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.25.14:839][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.25.39:126][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.25.42:573][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.25.49:590][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.25.52:633][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.26.04:958][280]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.26.15:229][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.26.46:980][169]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.26.50:112][536]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.27.02:285][958]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.04:576][206]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.27.10:121][843]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.21-13.27.13:843][284]LogCascade: Quitting Cascade. FXSystem=0x0000015152696D40
+[2018.10.21-13.27.13:874][284]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.10.21-13.27.20:222][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.20:231][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.uasset" SILENT=true
+[2018.10.21-13.27.20:246][ 28]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_Boule_Blanc4F6540744D564170D30D39A36D34EEE8.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.uasset'
+[2018.10.21-13.27.20:253][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.20:341][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.20:441][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.21:054][100]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.P_Map_Glow_Boule_Blanc
+[2018.10.21-13.27.29:022][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.27.31:502][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.27.52:024][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.27.59:317][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.27.59:428][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc" FILE="D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.uasset" SILENT=true
+[2018.10.21-13.27.59:448][287]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_Boule_BlancAA5BAF1E4A55E12DA17FA38F8B2A8657.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.uasset'
+[2018.10.21-13.28.00:423][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.28.01:105][403]LogSlate: Window 'P_Map_Glow_Boule_Blanc' being destroyed
+[2018.10.21-13.28.01:476][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.28.05:713][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.28.07:967][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.28.08:043][192]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_01)
+[2018.10.21-13.28.09:067][309]Cmd: DELETE
+[2018.10.21-13.28.09:067][309]Cmd: ACTOR DELETE
+[2018.10.21-13.28.09:101][309]LogEditorActor: Deleted Actor: Emitter
+[2018.10.21-13.28.09:119][309]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.21-13.28.09:553][359]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_Boule_Blanc)
+[2018.10.21-13.28.14:500][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.28.18:997][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.28.40:677][819]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.21-13.28.40:694][819]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.28.40:694][819]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.10.21-13.28.40:695][819]LogPlayLevel: [PlayLevel] Compiling Création_Mesh before play...
+[2018.10.21-13.28.40:774][819]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2018.10.21-13.28.40:774][819]PIE: New page: PIE session: Création_Mesh (21 oct. 2018 17:28:40)
+[2018.10.21-13.28.40:774][819]LogPlayLevel: Creating play world package: /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh
+[2018.10.21-13.28.40:914][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140172s)
+[2018.10.21-13.28.40:915][819]LogAIModule: Creating AISystem for world Création_Mesh
+[2018.10.21-13.28.40:915][819]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.10.21-13.28.40:915][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ailleurs/Maps/Création_Mesh.Création_Mesh to /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh (0.141069s)
+[2018.10.21-13.28.40:939][819]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.28.40:947][819]LogInit: FAudioDevice initialized.
+[2018.10.21-13.28.40:951][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.28.40:954][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.28.40:992][819]LogLoad: Game class is 'GameMode_classic_C'
+[2018.10.21-13.28.40:998][819]LogWorld: Bringing World /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh up for play (max tick rate 0) at 2018.10.21-15.28.40
+[2018.10.21-13.28.40:999][819]LogWorld: Bringing up level for play took: 0.007307
+[2018.10.21-13.28.41:011][819]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.21-13.28.41:013][819]Cmd: DisableAllScreenMessages
+[2018.10.21-13.28.41:013][819]LogEngine: Onscreen warnings/messages are now DISABLED
+[2018.10.21-13.28.41:016][819]PIE: Play in editor start time for /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh 1,018
+[2018.10.21-13.28.41:017][819]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.29.02:741][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.29.02:741][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.29.02:758][361]LogSlate: Window 'Ailleurs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.29.02:824][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.29.02:825][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.29.02:867][362]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.21-13.29.06:295][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.29.16:393][915]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.29.16:466][924]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_Boule_Blanc)
+[2018.10.21-13.29.18:848][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.29.46:012][977]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.21-13.29.46:028][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.29.46:028][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.21-13.29.46:028][977]PIE: New page: PIE session: Création_Mesh (21 oct. 2018 17:29:46)
+[2018.10.21-13.29.46:028][977]LogPlayLevel: Creating play world package: /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh
+[2018.10.21-13.29.46:164][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136376s)
+[2018.10.21-13.29.46:165][977]LogAIModule: Creating AISystem for world Création_Mesh
+[2018.10.21-13.29.46:165][977]LogPlayLevel: PIE: World Init took: (0.000618s)
+[2018.10.21-13.29.46:165][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Ailleurs/Maps/Création_Mesh.Création_Mesh to /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh (0.137241s)
+[2018.10.21-13.29.46:188][977]LogInit: XAudio2 using 'Haut-parleurs (Périphérique High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.21-13.29.46:195][977]LogInit: FAudioDevice initialized.
+[2018.10.21-13.29.46:198][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.29.46:200][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.29.46:237][977]LogLoad: Game class is 'GameMode_classic_C'
+[2018.10.21-13.29.46:244][977]LogWorld: Bringing World /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh.Création_Mesh up for play (max tick rate 0) at 2018.10.21-15.29.46
+[2018.10.21-13.29.46:245][977]LogWorld: Bringing up level for play took: 0.007299
+[2018.10.21-13.29.46:257][977]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.10.21-13.29.46:259][977]Cmd: DisableAllScreenMessages
+[2018.10.21-13.29.46:259][977]LogEngine: Onscreen warnings/messages are now DISABLED
+[2018.10.21-13.29.46:262][977]PIE: Play in editor start time for /Game/Ailleurs/Maps/UEDPIE_0_Création_Mesh 0,263
+[2018.10.21-13.29.46:263][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.30.08:985][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.30.08:985][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.21-13.30.09:003][831]LogSlate: Window 'Ailleurs Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.21-13.30.09:050][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.21-13.30.09:051][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel' has LevelScriptBlueprint '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh' with GeneratedClass '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh_C' with ClassGeneratedBy '/Game/Ailleurs/Maps/Création_Mesh.Création_Mesh:PersistentLevel.Création_Mesh'
+[2018.10.21-13.30.09:093][832]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.10.21-13.30.17:509][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.30.29:953][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.30.51:415][856]LogParticles: Warning: MaxCount =  504 for Emitter ParticleSpriteEmitter_0 (/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.P_Map_Glow_Boule_Blanc)
+[2018.10.21-13.31.48:170][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.31.49:581][326]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/Création_Mesh_Auto2F20F76F54711FEBC40807691F921FB66.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Saved/Autosaves/Game/Ailleurs/Maps/Création_Mesh_Auto2.umap'
+[2018.10.21-13.31.49:585][326]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Ailleurs/Maps/Création_Mesh' took 1.394
+[2018.10.21-13.31.49:585][326]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.394
+[2018.10.21-13.31.49:587][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem] ([1] browsable assets)...
+[2018.10.21-13.31.49:591][326]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.TutorialParticleSystem]
+[2018.10.21-13.31.49:591][326]OBJ SavePackage: Finished generating thumbnails for package [/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem]
+[2018.10.21-13.31.49:609][326]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/TutorialParticleSystem_Auto29310AC934CED51BE57654B997801EE8F.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Saved/Autosaves/Engine/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem_Auto2.uasset'
+[2018.10.21-13.31.49:610][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc] ([1] browsable assets)...
+[2018.10.21-13.31.49:615][326]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.P_Map_Glow_Boule_Blanc]
+[2018.10.21-13.31.49:615][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc]
+[2018.10.21-13.31.49:643][326]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/P_Map_Glow_Boule_Blanc_Auto2FCF8C8C84D8CD9457DE1CBAA11455D41.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Saved/Autosaves/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc_Auto2.uasset'
+[2018.10.21-13.31.49:644][326]LogFileHelpers: Auto-saving content packages took 0.057
+[2018.10.21-13.32.02:968][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.32.03:898][894]LogParticles: Warning: MaxCount =  504 for Emitter ParticleSpriteEmitter_0 (/Game/Ailleurs/Particules/P_Map_Glow_Boule_Blanc.P_Map_Glow_Boule_Blanc)
+[2018.10.21-13.32.07:138][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.10.21-13.32.07:776][333]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Map_Glow_Boule_Blanc)
+[2018.10.21-13.32.10:591][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.32.16:226][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.32.31:360][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.32.44:269][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.32.47:885][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.00:386][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.23:000][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.23:631][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.23:962][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.24:762][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.33.39:456][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.34.20:722][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.35.34:032][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.35.35:355][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.35.36:380][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.35.38:713][898]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.35.44:077][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.21-13.36.08:852][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.36.17:352][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.36.52:511][275]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.M_Flare_Vertical_Test_Boule
+[2018.10.21-13.37.18:039][ 73]LogTexture: Display: Building textures: T_SlashLine (AutoDXT, 512X512)
+[2018.10.21-13.37.50:429][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.38.02:361][937]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_Vertical_Test_Boule, compiling. 
+[2018.10.21-13.38.02:685][937]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.21-13.38.02:686][937]TextureStreamingBuild: Display: Compiling optional shaders took 0.330 seconds.
+[2018.10.21-13.38.03:726][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.38.04:741][135]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.M_Flare_Vertical_Test_Boule
+[2018.10.21-13.38.36:777][677]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_Vertical_Test_Boule, compiling. 
+[2018.10.21-13.38.37:100][677]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.21-13.38.37:101][677]TextureStreamingBuild: Display: Compiling optional shaders took 0.327 seconds.
+[2018.10.21-13.38.37:129][677]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/M_Flare_Vertical_Test_Boule69EC025A4F5C51353BC792864B797E49.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.uasset'
+[2018.10.21-13.38.39:017][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.38.49:230][ 37]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_Vertical_Test_Boule, compiling. 
+[2018.10.21-13.38.49:364][ 37]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.21-13.38.49:364][ 37]TextureStreamingBuild: Display: Compiling optional shaders took 0.136 seconds.
+[2018.10.21-13.38.49:394][ 37]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/M_Flare_Vertical_Test_Boule0C165E184E2D8EDF2A1EE6A11168AC3F.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.uasset'
+[2018.10.21-13.38.52:912][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.39.00:094][213]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_Vertical_Test_Boule, compiling. 
+[2018.10.21-13.39.00:220][213]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.21-13.39.00:220][213]TextureStreamingBuild: Display: Compiling optional shaders took 0.128 seconds.
+[2018.10.21-13.39.00:247][213]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/M_Flare_Vertical_Test_Boule064BB5E5461E9A7F7E9A73B88D551D5C.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.uasset'
+[2018.10.21-13.39.03:119][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.39.12:406][484]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Flare_Vertical_Test_Boule, compiling. 
+[2018.10.21-13.39.12:530][484]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.21-13.39.12:530][484]TextureStreamingBuild: Display: Compiling optional shaders took 0.127 seconds.
+[2018.10.21-13.39.12:557][484]LogSavePackage: Moving 'D:/Documents/Unreal Projects/Ailleurs/Saved/M_Flare_Vertical_Test_Boule4AD0C980430B9AD18173BCAFC5F3013E.tmp' to 'D:/Documents/Unreal Projects/Ailleurs/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_Vertical_Test_Boule.uasset'
+[2018.10.21-13.39.14:880][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.21-13.39.31:053][450]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2018.10.21-13.39.31:076][450]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.21-13.39.31:076][450]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.21-13.39.31:076][450]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.21-13.39.36:091][940]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2018.10.21-13.39.37:565][ 77]LogMaterial: Display: Missing cached shader map for material M_Add_Sprite_Master, compiling. 
+[2018.10.21-13.39.37:839][ 97]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.10.21-13.39.37:971][110]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.10.21-13.39.38:734][185]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.10.21-13.39.43:641][649]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.10.21-13.39.44:141][700]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.21-13.39.45:446][820]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.21-13.39.47:124][939]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.21-13.39.47:136][939]LogWindows: Windows GetLastError: L’opération a réussi. (0)
